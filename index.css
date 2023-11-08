@@ -1,0 +1,157 @@
+.header{
+     background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url("https://assets.nflxext.com/ffe/siteui/vlv3/ab4b0b22-2ddf-4d48-ae88-c201ae0267e2/0efe6360-4f6d-4b10-beb6-81e0762cfe81/IN-en-20231030-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    height: 100vh; 
+}
+.logo{
+ width: 100%;
+height:140px;
+
+ display: flex;
+ padding-top: 20px;
+ 
+}
+.ha{
+    color: white;
+   text-align: center;
+  
+    }
+.logoo{
+    height: 190px;
+    width: 100;
+   
+}
+.second{
+    float: right;
+    padding-left: 60%;
+    padding-top: 80px;
+    display: flex;
+    gap: 10px;
+    
+}
+
+.btn,.btn1{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.nt{
+    color: white;
+    text-align: center;
+    padding-top: 140px;
+
+}
+.tu{
+    width: 30%;
+    height: 40px;
+}
+.ru{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.third{
+    border: 4px solid grey;
+    background-color: black;
+   min-height: 100%;
+    /* padding: 4.5rem 0; */
+    margin-top: 10%;
+    
+}
+.p{
+    color: white;
+    font-size: xxx-large;
+    text-align: center;
+    padding-top: 300px;
+    padding-right: 30%;
+}
+.p1{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding-right:30%;
+}
+.tv{
+    float:right;
+    padding-top:60px;
+    margin-top: -30%;
+}
+.four{
+    border: 4px solid grey;
+    background-color: black;
+  height: 100vh;
+    /* padding: 4.5rem 0; */
+
+}
+.mbl{
+ padding-left: 25%;
+ padding-top: 45%;
+ 
+}
+/* .tyy{
+    border: 5px solid white;
+    color: white;
+    padding-left:60%;
+    padding-top: -50%;
+    width:5px;
+    height: 7px;
+} */
+
+.tyy{
+    color: white;
+    font-size: 55px;
+    font-weight: 900;
+    padding-right: 130px;
+}
+.typp{
+    color: white;
+   
+
+}
+.kam{
+    height: 65%;
+    display: flex;
+    justify-content: space-around;
+    padding-top:90px;
+    padding-left: 70px;
+}
+.loggg{
+    padding-left: 300px;
+}
+.five{
+    border: 10px solid grey;
+    display: flex;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    /* padding: 4.5rem 0; */
+    justify-content: space-around;
+    align-items: center;
+
+    
+
+}
+.r{
+
+    color: white;
+    margin-left: 20%;
+}
+.rr{
+    color: white;
+
+}
+.tvv{
+
+    
+}
+
+
